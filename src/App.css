@@ -1,6 +1,23 @@
 .App {
   text-align: center;
 }
+div{
+  overflow:auto;
+}
+.top{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+input{
+  width: 80%;
+  border-style: double;
+  border-color: black;
+  height: 50px;
+
+}
+
 
 .App-logo {
   height: 40vmin;
